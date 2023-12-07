@@ -1,24 +1,23 @@
-# Frontend Mentor - Intro component with sign up form solution
+# 🚀 Frontend Mentor - Intro component with sign up form solution
 
-This is a solution to the [Intro component with sign up form challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/intro-component-with-signup-form-5cf91bd49edda32581d28fd1). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is my solution to the [Intro component with sign up form challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/intro-component-with-signup-form-5cf91bd49edda32581d28fd1). Frontend Mentor challenges are a fantastic way to enhance your coding skills by working on real-world projects.
 
-## Table of contents
+## 🌐 Table of Contents
 
-- [Frontend Mentor - Intro component with sign up form solution](#frontend-mentor---intro-component-with-sign-up-form-solution)
-  - [Table of contents](#table-of-contents)
-  - [Overview](#overview)
-    - [The challenge](#the-challenge)
-    - [Screenshot](#screenshot)
-    - [Links](#links)
-  - [My process](#my-process)
-    - [Built with](#built-with)
-    - [What I learned](#what-i-learned)
-    - [Continued development](#continued-development)
-  - [Author](#author)
+- [🚀 Frontend Mentor - Intro component with sign up form solution](#-frontend-mentor---intro-component-with-sign-up-form-solution)
+  - [👀 Overview](#-overview)
+    - [🌟 The challenge](#-the-challenge)
+    - [📸 Screenshot](#-screenshot)
+    - [🔗 Links](#-links)
+  - [🛠️ My Process](#️-my-process)
+    - [🛠️ Built with](#️-built-with)
+    - [🎓 What I learned](#-what-i-learned)
+    - [🚀 Continued development](#-continued-development)
+  - [👩‍💻 Author](#-author)
 
-## Overview
+## 👀 Overview
 
-### The challenge
+### 🌟 The Challenge
 
 Users should be able to:
 
@@ -28,18 +27,18 @@ Users should be able to:
   - Any `input` field is empty. The message for this error should say *"[Field Name] cannot be empty"*
   - The email address is not formatted correctly (i.e. a correct email address should have this structure: `name@host.tld`). The message for this error should say *"Looks like this is not an email"*
 
-### Screenshot
+### 📸 Screenshot
 
-![My destop design](/myapp/My%20desktop%20design.png)
+![My desktop design](/myapp/My%20desktop%20design.png)
 
-### Links
+### 🔗 Links
 
-- Solution URL: [Solution Url](https://github.com/jen67/jen67.github.io/tree/gh-pages)
-- Live Site URL: [Live site](https://jen67.github.io/)
+- Solution URL: [🌐 Solution](https://github.com/jen67/jen67.github.io/tree/gh-pages)
+- Live Site URL: [🌐 Live site](https://jen67.github.io/)
 
-## My process
+## 🛠️ My Process
 
-### Built with
+### 🛠️ Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
@@ -48,15 +47,15 @@ Users should be able to:
 - Mobile-first workflow
 - [React](https://reactjs.org/) - JS library
   
-### What I learned
+### 🎓 What I Learned
 
 I undertook this project as an opportunity to hone and apply the React expertise I've recently acquired.
 
-### Continued development
+### 🚀 Continued Development
 
-I look forward to strengthening my skills frontend developement skills by practicing and building more apps.
+I look forward to strengthening my skills in frontend development by practicing and building more apps.
 
-## Author
+## 👩‍💻 Author
 
 - Frontend Mentor - [jen67](https://www.frontendmentor.io/profile/jen67)
 - Twitter - [@JenniferAm96723](https://twitter.com/JenniferAm96723)
