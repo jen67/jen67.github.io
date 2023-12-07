@@ -29,7 +29,7 @@ Users should be able to:
 
 ### 📸 Screenshot
 
-![My desktop design](/myapp/My%20desktop%20design.png)
+![My desktop design](/Desktop-view.png)
 
 ### 🔗 Links
 
